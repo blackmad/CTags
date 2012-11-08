@@ -147,3 +147,4 @@ Thanks :)
 | jump_back to_last_modification | ctrl+t ctrl+m          |                   |                        |
 | show_symbols                   | alt+s                  |                   |                        |
 | show_symbols multi             | alt+shift+s            |                   |                        |
+| search_for_definition          | ctrl+t ctrl+y          |                   |                        |
